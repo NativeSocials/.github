@@ -27,4 +27,4 @@ Alongside client work, we build our own products under the NativeSocials umbrell
 
 Based in Owerri, Nigeria, working with small businesses wherever they are.
 
-🌐 [nativesocials.com](https://nativesocials.com) · ✉️ [hello@nativesocials.com](mailto:hello@nativesocials.com)
+🌐 [nativesocials.com](https://nativesocials.com) · ✉️ [admin@nativesocials.com](mailto:hello@nativesocials.com)
