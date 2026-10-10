@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/nativesocials-logo-white.png">
-    <img src="./assets/nativesocials-logo.png" alt="NativeSocials" width="320">
+    <img src="./assets/logoicon.png" alt="NativeSocials" width="320">
   </picture>
 </p>
 
