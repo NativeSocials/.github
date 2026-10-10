@@ -1,8 +1,5 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/nativesocials-logo-white.png">
-    <img src="./assets/nativesocials-logo-white.png" alt="NativeSocials" width="320">
-  </picture>
+  RC:9860519
 </p>
 
 <p align="center"><strong>Your long-term brand partner.</strong><br>
